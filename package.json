@@ -1,0 +1,25 @@
+{
+  "name": "incursion-bot",
+  "version": "1.0.0",
+  "description": "Checks for new incursions and pings to discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylesrankin/incursion-bot.git"
+  },
+  "author": "Myles Rankin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mylesrankin/incursion-bot/issues"
+  },
+  "homepage": "https://github.com/mylesrankin/incursion-bot#readme",
+  "dependencies": {
+    "axios": "0.19.2",
+    "esijs": "3.0.6",
+    "eve-online-sde": "121.4.29",
+    "lowdb": "1.0.0"
+  }
+}

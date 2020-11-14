@@ -1,0 +1,78 @@
+{
+  "incursions": [
+    {
+      "constellation_id": 20000135,
+      "faction_id": 500019,
+      "has_boss": false,
+      "infested_solar_systems": [
+        30000918,
+        30000919,
+        30000920,
+        30000921,
+        30000922,
+        30000923,
+        30000924,
+        30000925,
+        30000926
+      ],
+      "influence": 0,
+      "staging_solar_system_id": 30000921,
+      "state": "mobilizing",
+      "type": "Incursion"
+    },
+    {
+      "constellation_id": 20000004,
+      "faction_id": 500019,
+      "has_boss": true,
+      "infested_solar_systems": [
+        30000023,
+        30000024,
+        30000025,
+        30000026,
+        30000027,
+        30000028,
+        30000029,
+        30000030
+      ],
+      "influence": 1,
+      "staging_solar_system_id": 30000029,
+      "state": "established",
+      "type": "Incursion"
+    },
+    {
+      "constellation_id": 20000297,
+      "faction_id": 500019,
+      "has_boss": false,
+      "infested_solar_systems": [
+        30002016,
+        30002017,
+        30002018,
+        30002019,
+        30002020,
+        30002021,
+        30002022
+      ],
+      "influence": 0,
+      "staging_solar_system_id": 30002022,
+      "state": "withdrawing",
+      "type": "Incursion"
+    },
+    {
+      "constellation_id": 20000318,
+      "faction_id": 500019,
+      "has_boss": false,
+      "infested_solar_systems": [
+        30002159,
+        30002160,
+        30002161,
+        30002162,
+        30002163,
+        30002164
+      ],
+      "influence": 0.12350000047683715,
+      "staging_solar_system_id": 30002164,
+      "state": "established",
+      "type": "Incursion"
+    }
+  ]
+}
