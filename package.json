@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mylesrankin/incursion-bot#readme",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "esijs": "3.0.6",
     "eve-online-sde": "121.4.29",
     "lowdb": "1.0.0"
